@@ -1,13 +1,7 @@
-# Sales-Forcasting-with-ARIMA     ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# Sales-Forcasting-with-ARIMA 
 
   - Forecasted monthly sales with <8% error using ARIMA after validating stationarity with ADF test.
   - Visualized trends and seasonality to support time series insights.
-
-
-## License
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-This project is licensed under the MIT License.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="20" height="20"> Youtube
 <h4>If you like, do follow me on Youtube</h4>
